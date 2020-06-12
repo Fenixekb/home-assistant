@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/ bash
 set -e
 
 function error { echo -e "[Error] $*"; exit 1; }
